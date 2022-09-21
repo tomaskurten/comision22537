@@ -1,5 +1,11 @@
 body{
+<<<<<<< HEAD
     background-color: blue;
     color: red;
     font-size: 32px;
+=======
+    background-color: red;
+    color:blue;
+    font-style: italic;
+>>>>>>> 780bffe09b3d25e7b86c78ce216b70c2cf42b617
 }
